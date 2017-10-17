@@ -1,0 +1,112 @@
+body{
+
+}
+
+.bb{
+	width: 100%;
+
+}
+.white{
+	
+    background:url('img/Main back.png') no-repeat;
+	background-size: cover;
+}
+
+.symbol{
+	display: inline-block;
+	padding-left: 200px;
+}
+
+
+.Menu {
+	
+	
+list-style-type: none;
+text-align: right;
+}
+
+.Menu li{
+	font-family: "Roboto", sans-serif;
+	font-size: 12px;
+	color: white;
+	text-transform: uppercase;
+	display: inline-block;
+	padding: 0 50px 0px 50px;
+
+}
+.small{
+background-color: transparent;
+border: 2px solid white;
+	width: 100px;
+    height: 30px;
+    border-radius: 25px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 12px;
+    font-weight: 400;
+    text-align: center;
+    text-transform: uppercase;
+    outline: none;
+    
+
+}
+
+.iPhone{
+float: right;
+}
+
+.it{
+font-family: "Roboto", sans-serif;
+	font-size: 12px;
+	color: white;
+	text-transform: uppercase;
+	padding-left: 200px;	
+}
+
+h1{
+font-family: "Roboto", sans-serif;
+	font-size: 50px;
+	color: white;
+	text-transform: uppercase;
+	padding-left: 200px;
+}
+.text{
+font-family: "Roboto", sans-serif;
+	font-size: 12px;
+	color: white;
+	padding-left: 200px;
+}
+
+.gn{
+
+background-color: white;
+	width: 150px;
+    height: 50px;
+    border-radius: 35px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 18px;
+    font-weight: 900;
+    text-align: center;
+    text-transform: uppercase;
+    outline: none;
+    border: none;
+
+}
+
+.dm{
+background-color: transparent;
+border: 2px solid white;
+	width: 250px;
+    height: 50px;
+    border-radius: 35px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 18px;
+    font-weight: 900;
+    text-align: center;
+    text-transform: uppercase;
+    outline: none;
+   
+
+}
